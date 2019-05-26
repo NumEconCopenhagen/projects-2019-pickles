@@ -7,3 +7,5 @@ Our goal will be to dug into the following aspects:
 * Finding the steady state rates by solveing for several transition equation
 * Finding numeric values for the steady state rates
 * Visualizing the transition towards steady state
+
+No no-non Anaconda standard packages should be required to run this project!
