@@ -9,3 +9,10 @@ Please note that genereally there is a statistic uncertainty regarding the proje
 The data, which is being used in this project is fetched directly from the two data sets "FRDK118" and "FOLK2" from Danmarks Statistik, DST.
 
 The data will be visualized in the form of an interactive population pyramid, showing the age and gender distribution throughout the years spanning from 1980 to 2060 for the total population of Denmark.
+
+**!! Before running the project, the package “plotly” and "pydst" should be installed!!**
+
+Paste *pip install plotly* in the Terminal. This is a necessity in order to view the figures and tables. 
+See https://plot.ly/python/getting-started/ for help.
+
+Paste *pip install git+https://github.com/elben10/pydst* in the Terminal.
