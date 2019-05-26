@@ -2,7 +2,7 @@
 
 We have provided you with the following repository that contains the required structure for this course. 
 
-**Please note that QWN691 could not participate in the exam project or help improving the projects post peer feedback. The exam project and changes were made solely by PDS797.
+**Please note that QWN691 could not participate in the exam project or help improving the projects post peer feedback. The exam project and changes were made solely by PDS797.**
 
 A short description of the files and folders:
 
